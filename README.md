@@ -12,8 +12,8 @@ I build products that solve real human problems using AI, data, empathy, and str
     - Medicine titration for providers with 99.7% accuracy for chronic conditions
     - Insights for registered nurses to take clinical decisions
 - Rules Engine that
-    - Generates insights for patients
-    - 
+    - Generates insights for patients based on their parameters from IOT sensors
+    - Insights for care team for touchpoints
 - 🚀 **Past Impact:** Build mobile apps for staffing agency which got acquired by equity investors for $135 million.
 - 🛠️ **Tech Stack:** AI Studio, Claude, Figma, Jira, GitHub, Mixpanel.
 - ✍️ **Writing:** I document <1% of shareable (most of what I build are proprietry) my product frameworks and teardowns here.
