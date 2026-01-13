@@ -4,7 +4,7 @@
 I build products that solve real human problems using AI, data, empathy, and structured execution. I thrive at the intersection of business strategy and technical feasibility.
 
 - 🔭 **Current Focus:** Leading Voice AI project that does automated voice call to complete Intake and books Appointment
--  Building 🤖 **AI Agents** that
+- 🤖 Building **AI Agents** that
     - Automatically place orders and tracks delivery,
     - Watches enrollment funnel and send automated nudges, reminders, push notifications, SMS to move members from Registration --> Activation
     - SMS agent that sends reminders and helps users to resechdule or cancel appointments
